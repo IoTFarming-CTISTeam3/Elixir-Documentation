@@ -1,8 +1,10 @@
 # Elixir-Documentation
 
-## Project Name: Elixir
+### Milestones
+- Milestone-2 March 17, 2021
+- Milestone-3 May 5, 2021
 
-## ToDo
+### ToDo
 
 - Ideilay these should be completed before Milestone -3 **[Wednesday May 5, 2021]**
   - Make and upload Project Documentation. (API,User Manual .etc)
