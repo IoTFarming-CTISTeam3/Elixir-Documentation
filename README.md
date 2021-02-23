@@ -4,7 +4,7 @@
 ## ToDo
 -  Make and upload Project Documentation. (API,User Manual .etc)
 - Create and upload Coding standards.
-- Prepare and upload all Test Cases Test Reports to GitHub
+- Prepare and upload all Test Cases and Test Reports to GitHub
 - Make and upload Project Poster to GitHub
 - Make and upload Project Video Demo to GitHub
 - Make and upload Booklet Information if there are any changes
