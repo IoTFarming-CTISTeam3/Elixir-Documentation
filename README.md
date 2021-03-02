@@ -8,12 +8,12 @@
 ### ToDo
 
 - Ideally these should be completed before Milestone - 3 **[Wednesday May 5, 2021]**
-  - [ ] Make and upload Project Documentation. (API,User Manual .etc)
+  - [ ] Make and upload [Project Documentation.](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/User%E2%80%99s%20Manual) (API,User Manual .etc)
+  - [ ] Prepare and upload all [Test Cases and Test Reports](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Test%20Reports%20and%20Test%20Cases) to GitHub
+  - [ ] Make and upload Project [Poster](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Project%20Poster) to GitHub
+  - [ ] Make and upload Project [Video Demo](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Project%20Video%20Demo) to GitHub
+  - [ ] Make and upload [Booklet](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Booklet%20Information) Information if there are any changes
   - [ ] Create and upload Coding standards.
-  - [ ] Prepare and upload all Test Cases and Test Reports to GitHub
-  - [ ] Make and upload Project Poster to GitHub
-  - [ ] Make and upload Project Video Demo to GitHub
-  - [ ] Make and upload Booklet Information if there are any changes
 
 ### Ongoing
 
@@ -21,7 +21,7 @@
 
 ----------
 
-## General Criteria
+## General Criteria - [PDF](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/blob/main/Grading%20Criteria/Senior-Project-II-Grading-Criteria.pdf)
 
 - Code **(2 Points)** (Milestone-3) (Project Supervisor)
   - Code must be developed based on your team’s coding standard(s). So you should upload your team’s coding standard(s) to GitHub at the beginning of the semester so that your project supervisor can examine.
