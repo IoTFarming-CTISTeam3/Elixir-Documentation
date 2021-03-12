@@ -2,7 +2,8 @@
 
 ## ToDo
 
-- Prepare and upload all Test Cases and Test Reports to GitHub
+- User Irrigation Operations
+- User Farm Operations
 
 ----------
 
