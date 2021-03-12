@@ -13,7 +13,7 @@
   - Status dashboard is outdated.
   - Navbar is outdated.
   - Missing Upload Farm Info page.
-  - Check panels after these issues are fixed.
+  - Check manuel after these issues are fixed.
     1. [Make irrigation page dynamic #18](https://github.com/IoTFarming-CTISTeam3/react_dash/issues/18)
     2. [Add current soil info to soil info page #20](https://github.com/IoTFarming-CTISTeam3/react_dash/issues/20)
     3. [Improve visualizations for the status page #16](https://github.com/IoTFarming-CTISTeam3/react_dash/issues/16)
