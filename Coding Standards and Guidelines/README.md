@@ -1,11 +1,12 @@
 # Elixir - Coding Standards and Guidelines
 
-## ToDo
+## Standards and Guidelines Usage
 
-- Create and upload Coding standards and guidelines
-  - Python
-  - Javascript
-  - etc
+- Python
+  - [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+  - [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
+- Javascript
+  - [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ----------
 
