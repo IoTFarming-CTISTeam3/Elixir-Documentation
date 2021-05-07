@@ -1,7 +1,5 @@
 # Elixir - Video Demo
 
-----------
-
 ## Criteria
 
 - Video **(4 Points)** (Milestone-3) (Project Committee)
