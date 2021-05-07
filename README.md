@@ -10,12 +10,12 @@ Video Folder: https://mega.nz/folder/G8JFzaBC#MCJqVgMbk3lUCcf6UGbr5w
 ### ToDo
 
 - Ideally these should be completed before Milestone - 3 **[Wednesday May 5, 2021]**
-  - [ ] Make and upload [Project Manuals](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Manuals) (API,User Manual .etc)
-  - [ ] Prepare and upload all [Test Cases and Test Reports](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Test%20Reports%20and%20Test%20Cases) to GitHub
-  - [ ] Make and upload Project [Poster](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Project%20Poster) to GitHub
-  - [ ] Make and upload Project [Video Demo](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Project%20Video%20Demo) to GitHub
-  - [ ] Make and upload [Booklet](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Booklet%20Information) Information if there are any changes
-  - [ ] Create and upload Coding standards.
+  - [x] Make and upload [Project Manuals](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Manuals) (API,User Manual .etc)
+  - [x] Prepare and upload all [Test Cases and Test Reports](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Test%20Reports%20and%20Test%20Cases) to GitHub
+  - [x] Make and upload Project [Poster](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Project%20Poster) to GitHub
+  - [x] Make and upload Project [Video Demo](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Project%20Video%20Demo) to GitHub
+  - [x] Make and upload [Booklet](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Booklet%20Information) Information if there are any changes
+  - [x] Create and upload Coding standards.
 
 ### Ongoing
 
