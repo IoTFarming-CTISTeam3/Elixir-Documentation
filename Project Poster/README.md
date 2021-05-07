@@ -1,7 +1,5 @@
 # Elixir - Project Poster
 
-----------
-
 ## Criteria
 
 - Poster **(4 Points)** (Project Committee) Milestone-3
