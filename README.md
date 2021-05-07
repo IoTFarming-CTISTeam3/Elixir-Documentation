@@ -14,7 +14,6 @@ Video Folder: https://mega.nz/folder/G8JFzaBC#MCJqVgMbk3lUCcf6UGbr5w
   - [x] Prepare and upload all [Test Cases and Test Reports](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Test%20Reports%20and%20Test%20Cases) to GitHub
   - [x] Make and upload Project [Poster](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Project%20Poster) to GitHub
   - [x] Make and upload Project [Video Demo](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Project%20Video%20Demo) to GitHub
-  - [x] Make and upload [Booklet](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Booklet%20Information) Information if there are any changes
   - [x] Create and upload [Coding standards](https://github.com/IoTFarming-CTISTeam3/Elixir-Documentation/tree/main/Coding%20Standards%20and%20Guidelines).
 
 ### Ongoing
