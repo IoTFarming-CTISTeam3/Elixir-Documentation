@@ -1,5 +1,7 @@
 # Elixir-Documentation
 
+Video Folder: https://mega.nz/folder/G8JFzaBC#MCJqVgMbk3lUCcf6UGbr5w
+
 ### Milestones
 
 - Milestone-2 March 17, 2021
