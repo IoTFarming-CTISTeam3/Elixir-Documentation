@@ -1,11 +1,5 @@
 # Elixir - Test Cases and Test Reports
 
-## ToDo
-
-- User Irrigation Operations
-- User Farm Operations
-
-----------
 
 ## Criteria
 
